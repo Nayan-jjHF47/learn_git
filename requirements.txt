@@ -1,5 +1,0 @@
-fastapi
-sqlmodel
-uvicorn
-pyjwt
-mysql-connector-python
